@@ -1,4 +1,4 @@
-👋 Hello World! I'm Luca, a passionate and results-driven tech enthusiast with a knack for cloud-native technologies and software development. ☁️
+👋 Hi folks! I'm Luca, a passionate and results-driven tech enthusiast with a knack for cloud-native technologies and software development. ☁️
 
 🚀 As a seasoned tech consultant, I specialize in translating complex technical concepts into clear, actionable strategies. My expertise lies in guiding clients through the intricate landscape of cloud-native architectures, ensuring they harness the full potential of cutting-edge technologies.
 
